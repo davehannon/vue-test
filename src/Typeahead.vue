@@ -8,7 +8,7 @@
 
     <input type="text"
            class="Typeahead__input"
-           placeholder="Search twitter user"
+           placeholder="Search twitter user - or disaster #"
            autocomplete="off"
            v-model="query"
            @keydown.down="down"
