@@ -30,7 +30,7 @@
 
 
 <script>
-import VueTypeahead from './vueMain'
+import VueTypeahead from '../vueMain'
 
 export default {
   extends: VueTypeahead,
